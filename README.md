@@ -1,4 +1,6 @@
-	1dia	2dia	3dia	4dia  5dia
+O grande bilionário Patinhas MacPato, possui uma quantidade de empresas dispersas por diversos países. Recebe mensalmente um relatório com o resultado dos lucros de cada uma delas. As empresas estão espalhada por diversos paises, como Brasil, China, Russia, Gabão e Egito:
+
+
 Brasil  34550	45600	99933	64747
 China	  34550	45600	99933	64747
 Russia	34550	45600	99933	64747
